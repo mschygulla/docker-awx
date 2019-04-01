@@ -10,7 +10,7 @@ Start AWX:
 
     docker-compose up -d
 
-Stop AXW:
+Stop AWX:
 
     docker-compose stop
 
